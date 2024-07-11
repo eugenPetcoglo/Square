@@ -1,0 +1,37 @@
+1. create directory/project
+
+2. initialize git: git init
+
+3. add directory to git: git add .
+
+4. first commit: git commit -m "first commit"
+
+5. create index.html
+
+6. change file: index.html
+
+7. add file to git: git add index.html/ git add .
+
+8. add commit to file: git commit -m "feature(html): description"
+
+9. create style.css
+
+10. change file style.css
+
+11. create conection in index.html to css
+
+12. add changes in index.html to git: git commit -a -m "refactor(html): linked stylesheet"
+
+13. add file to git: git add style.css/git add .
+
+14. add commit to file: git commit -m "feature(css): description"
+
+15. add file script.js, add changes in script.js, connect it to index.html
+
+16. add to git changes in index.html: git add index.html
+
+17. commit changet to index.html: git commit -m "refactor(html): linked script.js"
+
+18. add to git script.js: git add index.js/git add .
+
+19. add commit to script.js: git commit -m "feature(js): description"
